@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Posts
+permalink: /posts/
 ---
