@@ -12,6 +12,6 @@ layout: home
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="/assets/Headshot_Jack_Donnellan_February_2026.jpeg" alt="My Image" style="width: 600px;">
+    <img src="/assets/Headshot_Jack_Donnellan_February_2026.jpeg" alt="My Image" style="width: 300px;">
   </div>
 </div>
